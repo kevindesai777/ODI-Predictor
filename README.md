@@ -7,6 +7,8 @@ I took records of 10 years (2001-2011) of ODI matches and prepared a training se
 The format of the data was SQL. I wrote many queries to get rid of null values. I also removed the smaller teams which had insignificant number of matches. 
 Now to predict a win or loss for a particular team, I considered various factors.
 For example it is an India vs Australia match at Wankhede Stadium, India.
+
+
 1.	India’s record in past 10 years.
 2.	India’s record in past 2 years. (recent form)
 3.	India’s record in India in past 10 years.
